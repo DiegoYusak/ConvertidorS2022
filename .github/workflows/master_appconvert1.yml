@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'appconvert1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACCAE3AC0DBF4C5BA605B646C57A5764 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B23EEE4AA3AE4B20BB705D1F7CFE84B0 }}
           package: .
